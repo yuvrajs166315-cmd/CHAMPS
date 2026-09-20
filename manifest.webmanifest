@@ -1,0 +1,10 @@
+{
+  "name":"CHAMPS — Caring Has No Distance",
+  "short_name":"CHAMPS",
+  "start_url":"/",
+  "display":"standalone",
+  "background_color":"#f7faf9",
+  "theme_color":"#15355B",
+  "description":"A caring community app for senior citizens, families and volunteers.",
+  "icons":[]
+}
